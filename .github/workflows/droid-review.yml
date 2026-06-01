@@ -29,4 +29,3 @@ jobs:
           review_depth: deep
           review_model: gpt-5.2
           reasoning_effort: high
-# smoke-trigger: 20260601T123321Z
